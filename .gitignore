@@ -26,3 +26,5 @@ hs_err_pid*
 .idea/
 .vs/
 node_modules
+lang/fr copy.json
+.gitignore
